@@ -13,7 +13,6 @@ The robot is modeled with fixed-speed motion primitives sampled over a range of 
 
 ![Path Visualization](./images/simulation.png)
 
-> 🟢 Start | 🔴 Goal | ⚫ Obstacles | 🔵 Path
 
 ## Dependencies
 
